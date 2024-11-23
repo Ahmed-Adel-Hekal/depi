@@ -47,9 +47,9 @@ if all(col in df.columns for col in ["Interaction", "Quiz", "Assignment", "Stude
             with cols[0]:
                 # Custom style for top student
                 if row['Student'] == top_student['Student']:
-                    st.markdown(f"<h3 style='color: #ba547e;'>{row['Student']}  - {row['Total Points']} points 🥇</h3>", unsafe_allow_html=True)
+                    st.markdown(f"<h3 style='color: #d12e71;'>{row['Student']}  - {row['Total Points']} points 🥇</h3>", unsafe_allow_html=True)
                 else:
-                    st.markdown(f"<h3 style='color: #595f9f;'>{row['Student']} - {row['Total Points']} points</h3>", unsafe_allow_html=True)
+                    st.markdown(f"<h3 style='color: #252d85;'>{row['Student']} - {row['Total Points']} points</h3>", unsafe_allow_html=True)
                 
                 # Progress bar for visualizing points
                 st.progress(row['Total Points'] / df["Total Points"].max())
