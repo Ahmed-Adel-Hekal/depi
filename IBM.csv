@@ -1,17 +1,16 @@
-Student,Gender,Interaction,Quiz,Assignment
-Abdelrahman Ali,Male,,2,20
-Ali Sharaf,Male,,,0
-ali sharaf,Male,,,0
-Basel Mohamed,Male,,3,20
-Bedo Ahmed,Male,,,13
-George J. B. Tawadrous,Male,,,31
-Ibrahim Epead,Male,,,30
-Losia Awney,Female,,,27
-Mai Mamoon,Female,,1,27
-Mazen Ahmed Refaat,Male,,1,27
-Mhammed Zain,Male,,2,30
-Nada nasser Nasser,Female,,1,21
-Naira mo,Female,,1,31
-Seif Moheb,Male,,1,20
-Yousef awad,Male,,,20
-Youssef Wagdy,Male,,,31
+Student,Gender,Interaction,Quiz,Assignment,Total Points
+Abdelrahman Ali,Male,,2,20,22
+Ali Sharaf,Male,,,0,0
+Basel Mohamed,Male,,3,20,23
+Bedo Ahmed,Male,,,13,13
+George J. B. Tawadrous,Male,,,31,31
+Ibrahim Epead,Male,,,30,30
+Losia Awney,Female,,,27,27
+Mai Mamoon,Female,,1,27,28
+Mazen Ahmed Refaat,Male,,1,27,28
+Mhammed Zain,Male,,2,30,32
+Nada nasser Nasser,Female,,1,21,22
+Naira mo,Female,,1,31,32
+Seif Moheb,Male,,1,20,21
+Yousef awad,Male,,,20,20
+Youssef Wagdy,Male,,,31,31
