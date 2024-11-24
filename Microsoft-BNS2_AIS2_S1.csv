@@ -1,23 +1,23 @@
-Student,Interaction,Quiz,Assignment,Total Points
-Ahlam Mahmoud,0,0,0,0
-Muhammed Adel,0,0,0,0
-Wafaey Khaled,0,0,0,0
-Mohamed Habib,0,0,10,10
-Lobna Hamdy Basmsm,0,0,18,18
-maryem mahmoud,0,0,18,18
-Yassa Abram,0,0,24,24
-Ahmed Eid,0,0,28,28
-Alaa Harb,0,0,28,28
-Ghada Rabea,0,0,28,28
-Hazem Khairy,0,0,28,28
-Heba Hamed Shawky,0,0,28,28
-Jasmine Khaled,0,0,28,28
-Mariam Zaghloul,0,0,28,28
-Nadeen Medhat,0,0,28,28
-Nourhan Mohsen ,0,0,28,28
-ahmed mahmoud mohammed othman,0,0,28,28
-sabreen nasser,0,0,28,28
-Youssef Ahmed,0,0,33,33
-Amr Hassan Khalaf,0,0,38,38
-Eman Melad,0,0,38,38
-Fatma Mahmoud,0,0,38,38
+Student,Gender,Interaction,Quiz,Assignment,Total Points
+Ahlam Mahmoud,Female,0,0,0,0
+Muhammed Adel,Male,0,0,0,0
+Wafaey Khaled,Male,0,0,0,0
+Mohamed Habib,Male,0,0,10,10
+Lobna Hamdy Basmsm,Female,0,0,18,18
+maryem mahmoud,Female,0,0,18,18
+Yassa Abram,Male,0,0,24,24
+Ahmed Eid,Male,0,0,28,28
+Alaa Harb,Male,0,0,28,28
+Ghada Rabea,Female,0,0,28,28
+Hazem Khairy,Male,0,0,28,28
+Heba Hamed Shawky,Female,0,0,28,28
+Jasmine Khaled,Female,0,0,28,28
+Mariam Zaghloul,Male,0,0,28,28
+Nadeen Medhat,Female,0,0,28,28
+Nourhan Mohsen ,Female,0,0,28,28
+ahmed mahmoud mohammed othman,Male,0,0,28,28
+sabreen nasser,Female,0,0,28,28
+Youssef Ahmed,Male,0,0,33,33
+Amr Hassan Khalaf,Male,0,0,38,38
+Eman Melad,Female,0,0,38,38
+Fatma Mahmoud,Female,0,0,38,38
